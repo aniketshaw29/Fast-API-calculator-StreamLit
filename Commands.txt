@@ -1,0 +1,3 @@
+start uvicorn main:app --reload
+
+Streamlit run streamlit-frontend.py
